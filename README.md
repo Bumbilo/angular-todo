@@ -25,3 +25,42 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+```sh
+angular-todo/
+├──e2e/                                
+|	├──app.e2e-spec.ts
+|	├──app.po.ts                     
+|   ├──tsconfig.e2e.json	
+|──src/
+|   ├──app/
+|       ├──app.component.css
+|       ├──app.component.html
+|       ├──app.component.spec.ts
+|       ├──app.component.ts
+|       ├──app.module.ts
+|   ├──assets/
+|       ├──.gitkeep
+|   ├──enviroments/
+|       ├──environment.prod.ts
+|       ├──environment.ts
+|   ├──favico.ico
+|   ├──index.html
+|   ├──main.ts
+|   ├──polyfills.ts
+|   ├──style.css
+|   ├──test.ts
+|   ├──tsconfig.app.json
+|   ├──tsconfig.spec.json
+|   ├──typings.d.ts
+|──.angular-cli.json
+|──.editorconfig
+|──.gitignore
+|──.karma.config.js
+|──package-lock.json
+|──package.json
+|──protractor.conf.js
+├──README.md
+├──tesconfig.json
+├──tsling.json
+```
