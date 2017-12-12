@@ -29,8 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <pre>
 angular-todo/
 ├──e2e/                                
-|	  ├──app.e2e-spec.ts
-|	├──app.po.ts                     
+|   ├──app.e2e-spec.ts
+|   ├──app.po.ts                     
 |   ├──tsconfig.e2e.json	
 |──src/
 |   ├──app/
